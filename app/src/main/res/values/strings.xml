@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="select">Select Type</string>
+    <string name="select_Etat">Select State</string>
+</resources>
